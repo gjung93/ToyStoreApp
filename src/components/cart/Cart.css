@@ -1,0 +1,92 @@
+/* styling individual components to the card */
+
+.cart {
+  font-size: 15px;
+}
+
+.shopping-header {
+  font-size: 35px;
+}
+
+table {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th {
+  background-color: #2f4858;
+  color: rgb(247, 251, 255);
+  font-weight: 1px;
+  padding: 10px;
+}
+
+td {
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+}
+
+button {
+  background-color: white;
+  border: white;
+  font-size: 19px;
+}
+
+.remove {
+  background-color: #f6ae2d;
+  font-size: 10px;
+  border-color: #f6ae2d;
+  color: black;
+}
+
+.remove:hover {
+  background-color: white;
+  border-color: #f6ae2d;
+  color: black;
+}
+
+.container {
+  padding: 20px;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.shipping-method {
+  font-size: 18px;
+  font-weight: 100;
+}
+
+.button {
+  background-color: #f6ae2d;
+  border: #f6ae2d;
+  color: black;
+}
+
+.button:hover {
+  background-color: #f6ae2d;
+  border: #f6ae2d;
+  color: black;
+}
+
+.button:active {
+  background-color: #f6ae2d;
+  border: #f6ae2d;
+  color: black;
+}
+
+.shipping-select {
+  text-align: left;
+}
+
+.total {
+  text-align: center;
+  margin: 10px;
+  font-size: 18px;
+}
+
+.checkout {
+  background-color: #33658a;
+  border: #33658a;
+  border-radius: 8px;
+}

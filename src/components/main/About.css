@@ -1,0 +1,13 @@
+/* CSS styling for About page */
+.findUs {
+  text-align: left;
+  padding-left: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #f6ae2d;
+}
+
+.storeImages {
+  padding: 10px;
+  margin: 20px;
+}

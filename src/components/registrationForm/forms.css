@@ -1,0 +1,38 @@
+/* CSS for modal boxes forms */
+.modal-header {
+  background-color: #55dde0;
+}
+
+.forms {
+  padding: 8px;
+}
+
+.errorText {
+  color: #f26419;
+  font-size: 13px;
+  font-style: italic;
+}
+
+.submit {
+  background-color: #f26419;
+  color: white;
+  margin: 5px;
+  border: none;
+  width: 20%;
+}
+
+.submit:hover {
+  background-color: #f6ae2d;
+}
+
+.close {
+  background-color: #33658a;
+  color: white;
+  margin: 5px;
+  border: none;
+  width: 20%;
+}
+
+.close:hover {
+  background-color: #2f4858;
+}
