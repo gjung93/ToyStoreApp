@@ -1,0 +1,49 @@
+/* Styling specifically for the navigation bar at the top.  */
+.navigation {
+  margin-top: 20px;
+  background-color: #f6ae2d;
+}
+
+ul {
+  list-style-type: none;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  font-weight: 800;
+  font-size: 15px;
+  padding: 8px 8px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #2f4858;
+  color: white;
+}
+.active {
+  background-color: #33658a;
+  color: black;
+}
+
+.TotalPrice {
+  display: block;
+  color: #2f4858;
+  text-align: center;
+  font-weight: 600;
+  font-style: italic;
+  font-size: 15px;
+  padding: 8px 8px;
+  text-decoration: none;
+  float: right;
+}
