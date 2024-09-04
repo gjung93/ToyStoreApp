@@ -1,0 +1,26 @@
+/* CSS styling for Login */
+.welcome{
+    font-size: 50px;
+
+}
+.error{
+    font-size: 15px;
+    color: #F26419;
+}
+
+h2{
+    color:#2F4858;
+    padding-bottom: 20px;
+}
+
+.buttons{
+    background-color: #33658A;
+    color: white;
+    margin: 5px;
+    border: none;
+    width: 20%;
+}
+
+.buttons:hover {
+    background-color: #2F4858 ;
+}

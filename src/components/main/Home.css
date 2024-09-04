@@ -1,0 +1,11 @@
+/* CSS styling for home page */
+.mainTitle {
+  font-size: 60px;
+  font-weight: 300;
+  padding-bottom: 20px;
+  border-bottom: 3px solid #55dde0;
+}
+
+.image {
+  padding: 8%;
+}
